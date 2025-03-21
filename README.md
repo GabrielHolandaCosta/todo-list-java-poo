@@ -24,4 +24,5 @@ Execute a classe principal para iniciar o aplicativo.
 Observações:
 
 Este projeto é uma aplicação de console.
-O arquivo tarefas.dat será criado automaticamente na primeira execução do programa.
+O arquivo tarefas.dat será criado automaticamente na primeira execução do programa..
+
